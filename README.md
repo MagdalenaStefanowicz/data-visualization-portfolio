@@ -1,18 +1,25 @@
 # data-visualization-portfolio
 Repository containing visualizations created by me for academic and self learning purposes.
 
-# Project 1: something about classification
+# Project 1: Exploratory data analysis: Examining electricity use in households in EU 
+* Formulate relevant questions, and hypotheses
+* Test those questions with visualizations
+* Identify trends in the data
+* Look for relationships between variables
+* Communicate results with visualizations (scatter plots, histograms, etc.)
+
+# Project 2: Interactive Data Visualizations: something in Shiny
+
+# Project 2: Machine learning: something about classification
 * Created a tool that estimates ...
 * Scrapted over data ...
 * Optimized linear regressions to reach ...
-* Buil a cliet facing API using ... 
+* Buil a client facing API using ... 
 
-# Project 2: Clustering
+# Project 3: Machine learning: something about Clustering
 For this project I built a ...
 This could be helpfull for someone who ...
 
 To get these results I used ...
 
-# Project 3: Regression
-
-# Project 4: Deep learning / NLP / Computer Vision
+# Project 4: Regression: something about ...
